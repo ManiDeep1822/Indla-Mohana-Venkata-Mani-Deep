@@ -59,12 +59,7 @@ A real-time dashboard that shows:
 # 📈 GitHub Stats (Always working)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ManiDeep1822&show_icons=true&theme=react&hide_border=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ManiDeep1822&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiDeep1822&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
