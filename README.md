@@ -1,6 +1,6 @@
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Indla+Mohana+Venkata+Manideep+👋;MERN+Stack+Developer;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=600&color=00E0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Indla+Mohana+Venkata+Manideep+👋;MERN+Stack+Developer;Real-Time+Web+App+Developer;Always+Learning+Always+Building+🚀" />
 </p>
 
 ---
@@ -30,13 +30,13 @@ Currently learning and growing in the **MERN Stack** ecosystem.
 
 ### 🖥 Backend
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000?logo=express&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&style=for-the-badge)
 
 ### 🛠 Tools
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)
-![Github](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)
 
 ---
 
@@ -53,22 +53,23 @@ A real-time dashboard that shows:
 
 ---
 
-# 📈 GitHub Stats (Always working)
+# 📈 GitHub Stats (100% Working Mirrors)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ManiDeep1822&show_icons=true&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api?username=ManiDeep1822&show_icons=true&theme=react&hide_border=true" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ManiDeep1822&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiDeep1822&layout=compact&theme=react&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ManiDeep1822&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
 
-# 🌌 Contribution Graph
+# 🌌 Contribution Graph (Working Mirror)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManiDeep1822&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManiDeep1822&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -76,15 +77,15 @@ A real-time dashboard that shows:
 # 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/ManiDeep1822">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
   </a>
   <a href="mailto:indlachinnu123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=00E0FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+✨;Let's+Build+Something+Amazing+Together+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=00E0FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+✨;Let's+Build+Something+Amazing+Together+🚀" />
 </p>
